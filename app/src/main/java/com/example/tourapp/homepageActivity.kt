@@ -29,7 +29,7 @@ class HomepageActivity : AppCompatActivity() {
 
         val cardItems = listOf(
             CardItem(R.drawable.candra1, "Candra Naya Building", "Local history museum with Dutch colonial architecture.", "candra"),
-            CardItem(R.drawable.freedom_library2, "Freedom Library", "A small library focused on politics and social economy.", "freedom"),
+            CardItem(R.drawable.freedom_library1, "Freedom Library", "A small library focused on politics and social economy.", "freedom"),
             CardItem(R.drawable.ragunan_zoo1, "Ragunan Zoo", "The largest zoo in Jakarta.", "ragunan")
         )
 
